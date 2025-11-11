@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Marcello Martins\\projects\\MichelleProject\\DoctorRoutePlanner\\src\\DoctorRoutePlanner\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.DoctorRoutePlanner.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.DoctorRoutePlanner.props",
+      "PackagePath": "build\\DoctorRoutePlanner.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.DoctorRoutePlanner.props",
+      "PackagePath": "buildMultiTargeting\\DoctorRoutePlanner.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.DoctorRoutePlanner.props",
+      "PackagePath": "buildTransitive\\DoctorRoutePlanner.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

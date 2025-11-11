@@ -1,0 +1,125 @@
+@page
+@model DoctorRoutePlanner.Pages.IndexModel
+@{
+    ViewData["Title"] = "Doctor Route Planner";
+}
+
+<div class="container mt-4">
+    <h1 class="mb-4">Doctor Route Planner</h1>
+    
+    <div class="row">
+        <div class="col-md-6">
+            <div class="card">
+                <div class="card-header">
+                    <h5 class="card-title mb-0">Input Appointments</h5>
+                </div>
+                <div class="card-body">
+                    <form method="post" enctype="multipart/form-data">
+                        <div class="mb-3">
+                            <label for="homeLatitude" class="form-label">Home Latitude</label>
+                            <input type="number" step="any" class="form-control" id="homeLatitude" 
+                                   asp-for="HomeLatitude" value="40.7128">
+                        </div>
+                        <div class="mb-3">
+                            <label for="homeLongitude" class="form-label">Home Longitude</label>
+                            <input type="number" step="any" class="form-control" id="homeLongitude" 
+                                   asp-for="HomeLongitude" value="-74.0060">
+                        </div>
+                        <div class="mb-3">
+                            <label for="jsonInput" class="form-label">Appointments JSON</label>
+                            <textarea class="form-control" id="jsonInput" asp-for="JsonInput" rows="10"></textarea>
+                            <div class="form-text">
+                                Paste JSON data or upload a file below.
+                            </div>
+                        </div>
+                        <div class="mb-3">
+                            <label for="fileUpload" class="form-label">Or upload JSON file</label>
+                            <input type="file" class="form-control" id="fileUpload" name="file">
+                        </div>
+                        <button type="submit" class="btn btn-primary">Generate Route</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+        
+        <div class="col-md-6">
+            <div class="card">
+                <div class="card-header">
+                    <h5 class="card-title mb-0">Route Schedule</h5>
+                </div>
+                <div class="card-body">
+                    @if (Model.RoutePlan != null)
+                    {
+                        <div class="alert alert-success">
+                            <strong>Route generated successfully!</strong><br>
+                            Total Distance: @Model.RoutePlan.TotalDistance.ToString("F2") km<br>
+                            Total Travel Time: @Model.RoutePlan.TotalTravelTime.ToString("F2") minutes<br>
+                            Total Working Time: @Model.RoutePlan.TotalWorkingTime.ToString(@"hh\:mm")
+                        </div>
+                        
+                        <div class="table-responsive">
+                            <table class="table table-striped">
+                                <thead>
+                                    <tr>
+                                        <th>Time</th>
+                                        <th>Patient</th>
+                                        <th>Location</th>
+                                        <th>Travel</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    @foreach (var appointment in Model.RoutePlan.Schedule)
+                                    {
+                                        <tr>
+                                            <td>
+                                                <strong>@appointment.ArrivalTime.ToString("HH:mm")</strong> - 
+                                                @appointment.DepartureTime.ToString("HH:mm")
+                                            </td>
+                                            <td>@appointment.PatientName</td>
+                                            <td>(@appointment.Latitude.ToString("F4"), @appointment.Longitude.ToString("F4"))</td>
+                                            <td>
+                                                @if (appointment.TravelTimeFromPrevious > 0)
+                                                {
+                                                    <span>@appointment.TravelTimeFromPrevious.ToString("F1") min</span>
+                                                }
+                                                else
+                                                {
+                                                    <span>Start</span>
+                                                }
+                                            </td>
+                                        </tr>
+                                    }
+                                </tbody>
+                            </table>
+                        </div>
+                    }
+                    else if (!string.IsNullOrEmpty(Model.ErrorMessage))
+                    {
+                        <div class="alert alert-danger">
+                            @Model.ErrorMessage
+                        </div>
+                    }
+                    else
+                    {
+                        <div class="text-muted">
+                            <p>Enter appointment data and generate an optimal route.</p>
+                            <p>Sample JSON format:</p>
+                            <pre class="bg-light p-2 small">
+[
+  {
+    "patientId": "1",
+    "patientName": "John Doe",
+    "latitude": 40.7505,
+    "longitude": -73.9934,
+    "timeWindowStart": "2025-12-01T09:00:00",
+    "timeWindowEnd": "2025-12-01T11:00:00",
+    "duration": 30
+  }
+]</pre>
+                        </div>
+                    }
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

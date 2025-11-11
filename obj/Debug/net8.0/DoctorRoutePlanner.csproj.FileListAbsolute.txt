@@ -1,0 +1,82 @@
+D:\Marcello Martins\projects\MichelleProject\DoctorRoutePlanner\src\DoctorRoutePlanner\bin\Debug\net8.0\DoctorRoutePlanner.staticwebassets.runtime.json
+D:\Marcello Martins\projects\MichelleProject\DoctorRoutePlanner\src\DoctorRoutePlanner\bin\Debug\net8.0\DoctorRoutePlanner.exe
+D:\Marcello Martins\projects\MichelleProject\DoctorRoutePlanner\src\DoctorRoutePlanner\bin\Debug\net8.0\DoctorRoutePlanner.deps.json
+D:\Marcello Martins\projects\MichelleProject\DoctorRoutePlanner\src\DoctorRoutePlanner\bin\Debug\net8.0\DoctorRoutePlanner.runtimeconfig.json
+D:\Marcello Martins\projects\MichelleProject\DoctorRoutePlanner\src\DoctorRoutePlanner\bin\Debug\net8.0\DoctorRoutePlanner.dll
+D:\Marcello Martins\projects\MichelleProject\DoctorRoutePlanner\src\DoctorRoutePlanner\bin\Debug\net8.0\DoctorRoutePlanner.pdb
+D:\Marcello Martins\projects\MichelleProject\DoctorRoutePlanner\src\DoctorRoutePlanner\obj\Debug\net8.0\DoctorRoutePlanner.GeneratedMSBuildEditorConfig.editorconfig
+D:\Marcello Martins\projects\MichelleProject\DoctorRoutePlanner\src\DoctorRoutePlanner\obj\Debug\net8.0\DoctorRoutePlanner.AssemblyInfoInputs.cache
+D:\Marcello Martins\projects\MichelleProject\DoctorRoutePlanner\src\DoctorRoutePlanner\obj\Debug\net8.0\DoctorRoutePlanner.AssemblyInfo.cs
+D:\Marcello Martins\projects\MichelleProject\DoctorRoutePlanner\src\DoctorRoutePlanner\obj\Debug\net8.0\DoctorRoutePlanner.csproj.CoreCompileInputs.cache
+D:\Marcello Martins\projects\MichelleProject\DoctorRoutePlanner\src\DoctorRoutePlanner\obj\Debug\net8.0\DoctorRoutePlanner.MvcApplicationPartsAssemblyInfo.cache
+D:\Marcello Martins\projects\MichelleProject\DoctorRoutePlanner\src\DoctorRoutePlanner\obj\Debug\net8.0\DoctorRoutePlanner.RazorAssemblyInfo.cache
+D:\Marcello Martins\projects\MichelleProject\DoctorRoutePlanner\src\DoctorRoutePlanner\obj\Debug\net8.0\DoctorRoutePlanner.RazorAssemblyInfo.cs
+D:\Marcello Martins\projects\MichelleProject\DoctorRoutePlanner\src\DoctorRoutePlanner\obj\Debug\net8.0\staticwebassets.build.json
+D:\Marcello Martins\projects\MichelleProject\DoctorRoutePlanner\src\DoctorRoutePlanner\obj\Debug\net8.0\staticwebassets.development.json
+D:\Marcello Martins\projects\MichelleProject\DoctorRoutePlanner\src\DoctorRoutePlanner\obj\Debug\net8.0\staticwebassets\msbuild.DoctorRoutePlanner.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Marcello Martins\projects\MichelleProject\DoctorRoutePlanner\src\DoctorRoutePlanner\obj\Debug\net8.0\staticwebassets\msbuild.build.DoctorRoutePlanner.props
+D:\Marcello Martins\projects\MichelleProject\DoctorRoutePlanner\src\DoctorRoutePlanner\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.DoctorRoutePlanner.props
+D:\Marcello Martins\projects\MichelleProject\DoctorRoutePlanner\src\DoctorRoutePlanner\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.DoctorRoutePlanner.props
+D:\Marcello Martins\projects\MichelleProject\DoctorRoutePlanner\src\DoctorRoutePlanner\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Marcello Martins\projects\MichelleProject\DoctorRoutePlanner\src\DoctorRoutePlanner\obj\Debug\net8.0\scopedcss\bundle\DoctorRoutePlanner.styles.css
+D:\Marcello Martins\projects\MichelleProject\DoctorRoutePlanner\src\DoctorRoutePlanner\obj\Debug\net8.0\DoctorRoutePlanner.dll
+D:\Marcello Martins\projects\MichelleProject\DoctorRoutePlanner\src\DoctorRoutePlanner\obj\Debug\net8.0\refint\DoctorRoutePlanner.dll
+D:\Marcello Martins\projects\MichelleProject\DoctorRoutePlanner\src\DoctorRoutePlanner\obj\Debug\net8.0\DoctorRoutePlanner.pdb
+D:\Marcello Martins\projects\MichelleProject\DoctorRoutePlanner\src\DoctorRoutePlanner\obj\Debug\net8.0\DoctorRoutePlanner.genruntimeconfig.cache
+D:\Marcello Martins\projects\MichelleProject\DoctorRoutePlanner\src\DoctorRoutePlanner\obj\Debug\net8.0\ref\DoctorRoutePlanner.dll
+C:\Users\Administrator\Downloads\DoctorRoutePlanner\src\DoctorRoutePlanner\bin\Debug\net8.0\DoctorRoutePlanner.staticwebassets.runtime.json
+C:\Users\Administrator\Downloads\DoctorRoutePlanner\src\DoctorRoutePlanner\bin\Debug\net8.0\DoctorRoutePlanner.staticwebassets.endpoints.json
+C:\Users\Administrator\Downloads\DoctorRoutePlanner\src\DoctorRoutePlanner\bin\Debug\net8.0\DoctorRoutePlanner.exe
+C:\Users\Administrator\Downloads\DoctorRoutePlanner\src\DoctorRoutePlanner\bin\Debug\net8.0\DoctorRoutePlanner.deps.json
+C:\Users\Administrator\Downloads\DoctorRoutePlanner\src\DoctorRoutePlanner\bin\Debug\net8.0\DoctorRoutePlanner.runtimeconfig.json
+C:\Users\Administrator\Downloads\DoctorRoutePlanner\src\DoctorRoutePlanner\bin\Debug\net8.0\DoctorRoutePlanner.dll
+C:\Users\Administrator\Downloads\DoctorRoutePlanner\src\DoctorRoutePlanner\bin\Debug\net8.0\DoctorRoutePlanner.pdb
+C:\Users\Administrator\Downloads\DoctorRoutePlanner\src\DoctorRoutePlanner\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\Administrator\Downloads\DoctorRoutePlanner\src\DoctorRoutePlanner\obj\Debug\net8.0\DoctorRoutePlanner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Downloads\DoctorRoutePlanner\src\DoctorRoutePlanner\obj\Debug\net8.0\DoctorRoutePlanner.AssemblyInfoInputs.cache
+C:\Users\Administrator\Downloads\DoctorRoutePlanner\src\DoctorRoutePlanner\obj\Debug\net8.0\DoctorRoutePlanner.AssemblyInfo.cs
+C:\Users\Administrator\Downloads\DoctorRoutePlanner\src\DoctorRoutePlanner\obj\Debug\net8.0\DoctorRoutePlanner.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\DoctorRoutePlanner\src\DoctorRoutePlanner\obj\Debug\net8.0\DoctorRoutePlanner.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Administrator\Downloads\DoctorRoutePlanner\src\DoctorRoutePlanner\obj\Debug\net8.0\DoctorRoutePlanner.RazorAssemblyInfo.cache
+C:\Users\Administrator\Downloads\DoctorRoutePlanner\src\DoctorRoutePlanner\obj\Debug\net8.0\DoctorRoutePlanner.RazorAssemblyInfo.cs
+C:\Users\Administrator\Downloads\DoctorRoutePlanner\src\DoctorRoutePlanner\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\Administrator\Downloads\DoctorRoutePlanner\src\DoctorRoutePlanner\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\Administrator\Downloads\DoctorRoutePlanner\src\DoctorRoutePlanner\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\Administrator\Downloads\DoctorRoutePlanner\src\DoctorRoutePlanner\obj\Debug\net8.0\scopedcss\bundle\DoctorRoutePlanner.styles.css
+C:\Users\Administrator\Downloads\DoctorRoutePlanner\src\DoctorRoutePlanner\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Administrator\Downloads\DoctorRoutePlanner\src\DoctorRoutePlanner\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\Administrator\Downloads\DoctorRoutePlanner\src\DoctorRoutePlanner\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Administrator\Downloads\DoctorRoutePlanner\src\DoctorRoutePlanner\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Administrator\Downloads\DoctorRoutePlanner\src\DoctorRoutePlanner\obj\Debug\net8.0\DoctorRoutePlanner.dll
+C:\Users\Administrator\Downloads\DoctorRoutePlanner\src\DoctorRoutePlanner\obj\Debug\net8.0\refint\DoctorRoutePlanner.dll
+C:\Users\Administrator\Downloads\DoctorRoutePlanner\src\DoctorRoutePlanner\obj\Debug\net8.0\DoctorRoutePlanner.pdb
+C:\Users\Administrator\Downloads\DoctorRoutePlanner\src\DoctorRoutePlanner\obj\Debug\net8.0\DoctorRoutePlanner.genruntimeconfig.cache
+C:\Users\Administrator\Downloads\DoctorRoutePlanner\src\DoctorRoutePlanner\obj\Debug\net8.0\ref\DoctorRoutePlanner.dll
+D:\Michelle\Code Assessment\DoctorRoutePlanner\src\DoctorRoutePlanner\bin\Debug\net8.0\DoctorRoutePlanner.staticwebassets.endpoints.json
+D:\Michelle\Code Assessment\DoctorRoutePlanner\src\DoctorRoutePlanner\bin\Debug\net8.0\DoctorRoutePlanner.staticwebassets.runtime.json
+D:\Michelle\Code Assessment\DoctorRoutePlanner\src\DoctorRoutePlanner\bin\Debug\net8.0\DoctorRoutePlanner.exe
+D:\Michelle\Code Assessment\DoctorRoutePlanner\src\DoctorRoutePlanner\bin\Debug\net8.0\DoctorRoutePlanner.deps.json
+D:\Michelle\Code Assessment\DoctorRoutePlanner\src\DoctorRoutePlanner\bin\Debug\net8.0\DoctorRoutePlanner.runtimeconfig.json
+D:\Michelle\Code Assessment\DoctorRoutePlanner\src\DoctorRoutePlanner\bin\Debug\net8.0\DoctorRoutePlanner.dll
+D:\Michelle\Code Assessment\DoctorRoutePlanner\src\DoctorRoutePlanner\bin\Debug\net8.0\DoctorRoutePlanner.pdb
+D:\Michelle\Code Assessment\DoctorRoutePlanner\src\DoctorRoutePlanner\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\Michelle\Code Assessment\DoctorRoutePlanner\src\DoctorRoutePlanner\obj\Debug\net8.0\DoctorRoutePlanner.GeneratedMSBuildEditorConfig.editorconfig
+D:\Michelle\Code Assessment\DoctorRoutePlanner\src\DoctorRoutePlanner\obj\Debug\net8.0\DoctorRoutePlanner.AssemblyInfoInputs.cache
+D:\Michelle\Code Assessment\DoctorRoutePlanner\src\DoctorRoutePlanner\obj\Debug\net8.0\DoctorRoutePlanner.AssemblyInfo.cs
+D:\Michelle\Code Assessment\DoctorRoutePlanner\src\DoctorRoutePlanner\obj\Debug\net8.0\DoctorRoutePlanner.csproj.CoreCompileInputs.cache
+D:\Michelle\Code Assessment\DoctorRoutePlanner\src\DoctorRoutePlanner\obj\Debug\net8.0\DoctorRoutePlanner.MvcApplicationPartsAssemblyInfo.cache
+D:\Michelle\Code Assessment\DoctorRoutePlanner\src\DoctorRoutePlanner\obj\Debug\net8.0\DoctorRoutePlanner.RazorAssemblyInfo.cache
+D:\Michelle\Code Assessment\DoctorRoutePlanner\src\DoctorRoutePlanner\obj\Debug\net8.0\DoctorRoutePlanner.RazorAssemblyInfo.cs
+D:\Michelle\Code Assessment\DoctorRoutePlanner\src\DoctorRoutePlanner\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\Michelle\Code Assessment\DoctorRoutePlanner\src\DoctorRoutePlanner\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\Michelle\Code Assessment\DoctorRoutePlanner\src\DoctorRoutePlanner\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\Michelle\Code Assessment\DoctorRoutePlanner\src\DoctorRoutePlanner\obj\Debug\net8.0\scopedcss\bundle\DoctorRoutePlanner.styles.css
+D:\Michelle\Code Assessment\DoctorRoutePlanner\src\DoctorRoutePlanner\obj\Debug\net8.0\staticwebassets.build.json
+D:\Michelle\Code Assessment\DoctorRoutePlanner\src\DoctorRoutePlanner\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\Michelle\Code Assessment\DoctorRoutePlanner\src\DoctorRoutePlanner\obj\Debug\net8.0\staticwebassets.development.json
+D:\Michelle\Code Assessment\DoctorRoutePlanner\src\DoctorRoutePlanner\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Michelle\Code Assessment\DoctorRoutePlanner\src\DoctorRoutePlanner\obj\Debug\net8.0\DoctorRoutePlanner.dll
+D:\Michelle\Code Assessment\DoctorRoutePlanner\src\DoctorRoutePlanner\obj\Debug\net8.0\refint\DoctorRoutePlanner.dll
+D:\Michelle\Code Assessment\DoctorRoutePlanner\src\DoctorRoutePlanner\obj\Debug\net8.0\DoctorRoutePlanner.pdb
+D:\Michelle\Code Assessment\DoctorRoutePlanner\src\DoctorRoutePlanner\obj\Debug\net8.0\DoctorRoutePlanner.genruntimeconfig.cache
+D:\Michelle\Code Assessment\DoctorRoutePlanner\src\DoctorRoutePlanner\obj\Debug\net8.0\ref\DoctorRoutePlanner.dll
