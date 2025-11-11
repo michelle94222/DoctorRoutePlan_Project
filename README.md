@@ -36,7 +36,7 @@ An ASP.NET Core 8+ web application that helps doctors optimize their house call 
 [
   {
     "patientId": "1",
-    "patientName": "John Doe",
+    "patientName": "Michelle Zhang",
     "latitude": 40.7505,
     "longitude": -73.9934,
     "timeWindowStart": "2025-12-01T09:00:00",
@@ -45,7 +45,7 @@ An ASP.NET Core 8+ web application that helps doctors optimize their house call 
   },
   {
     "patientId": "2",
-    "patientName": "Jane Smith",
+    "patientName": "John Tito",
     "latitude": 40.7589,
     "longitude": -73.9851,
     "timeWindowStart": "2025-12-01T10:00:00",
@@ -134,29 +134,3 @@ public class RoutePlan
 - Fuel cost calculations
 - Mobile app companion
 - Historical performance analytics
-
-## Troubleshooting
-
-### Common Issues
-
-"Unable to generate a valid route"
-- Check that appointment durations fit within time windows
-- Ensure time windows are realistic for travel distances
-- Verify coordinates are valid (latitude: -90 to 90, longitude: -180 to 180)
-
-JSON parsing errors
-- Validate JSON syntax using online validators
-- Ensure all required fields are present
-- Check date formats (ISO 8601 recommended)
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Acknowledgments
-
-- Haversine formula for distance calculations
-- Bootstrap for responsive UI components
-- ASP.NET Core team for the excellent web framework
-
-Built with for healthcare professionals
